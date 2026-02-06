@@ -1,0 +1,11 @@
+.text-danger{
+    color: red;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.border-solid{
+    border: 2px solid blue;
+}
